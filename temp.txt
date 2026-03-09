@@ -1,7 +1,0 @@
-git clone https://github.com/Yazeed-Rabab3ah/AI_Advisory_System.git
-
-cd project name 
-
-uv sync
-
-uv run main.py
