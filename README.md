@@ -51,10 +51,9 @@ User Response
 - **Agno Agent Framework**
 - **OpenAI GPT-4.1 (Master Agent)**
 - **OpenAI GPT-4.1-mini (Specialized Agents)**
-- **Google Web Search Tools**
 - **Google Maps API**
 - **RAG Knowledge Base (company data)**
-- **Session storage database**
+- **SQLite & ChromaDB**
 - **uv package manager**
 
 ---
@@ -78,3 +77,4 @@ uv run main.py
 ```
 
 Note: Demo video link in documentation
+
